@@ -1,6 +1,6 @@
 # 📌 Detecção de câncer de mama
 
-Trabalho referente a disciplina de Inteligência Computacional🤖
+Trabalho referente a disciplina de Inteligência Computacional
 ***
 
 ## Integrantes do grupo
