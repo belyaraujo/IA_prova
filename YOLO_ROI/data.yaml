@@ -1,0 +1,5 @@
+train: /content/rsna_annotations/yolo_ds/train
+val: /content/rsna_annotations/yolo_ds/valid
+
+nc: 1
+names: ['ROI']
